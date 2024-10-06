@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../scrape_review"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../.conda"
+		}
+	],
+	"settings": {}
+}
